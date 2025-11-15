@@ -2,9 +2,9 @@
 
 <link href="ttps://www.cufonfonts.com/font/minecraft-ten" rel="stylesheet">
 
-<h2 align="left" style="font-family: 'Mojang', sans-serif; font-size: 24px;">Здраствуйте! Меня зовут Азим</h2>
+<h2 align="left" style="font-family: 'Minecraftia', monospace;">Здраствуйте! Меня зовут Азим</h2>
 
-<p align="left">
+<p align="left" style="font-family: 'Minecraftia', monospace;">
   HTML-CODER из Г.Кара-Балты, Кыргызстан.<br>
   Начинаю свой путь».
 </p>
